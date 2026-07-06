@@ -16,6 +16,7 @@ function jogar2 (escolhaJogador2) {
     console.log(escolhaplay2)
 }
 
+
 function resultadoplay1 () {
 
     if (escolhaplay1 === escolhaplay2) {
